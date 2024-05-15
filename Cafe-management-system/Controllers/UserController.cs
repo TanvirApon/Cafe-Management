@@ -199,6 +199,8 @@ namespace Cafe_management_system.Controllers
 
         }
 
+        /*
+
         [HttpPost,Route("changePassword")]
         [CustomAuthenticationFilter]
 
@@ -302,7 +304,7 @@ namespace Cafe_management_system.Controllers
         }
 
 
-
+        */
 
 
 
